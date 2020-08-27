@@ -15,6 +15,7 @@
 			    user-select:none;
 			    -ms-user-select:none;
 			    -moz-user-select:none;
+			    background-image: url("resources/images/chat.png");
 			  
 			  
 			}
@@ -118,7 +119,7 @@
     </head>
     <body>
         <header>
-            <h1 class="nice-font" >Prashanth Bank's(Virtual Assistant)</h1>
+            <h1 class="nice-font" >Virtusa Bank's(Virtual Assistant)</h1>
         </header>
        
         <main class="nice-font">
